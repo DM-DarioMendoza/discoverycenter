@@ -3176,3 +3176,72 @@ section {
   background: var(--color-primary);
   text-decoration: none;
 }
+
+/* <!-- ----whatsapp --> */
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:90px;
+  right:20px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:13px;  
+  /* color:#FFF; */
+}
+
+
+/* <!-- ----FB --> */
+.facebookFlotante {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:170px;
+  right:20px;
+  background-color:#10A6F6;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.facebookFlotante-icon {
+  margin-top:13px;  
+
+}
+
+/* <!-- ----correoelectronico --> */
+
+.correoelectronico {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:250px;
+  right:20px;
+  background-color:#FFDEB4;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.correoelectronico-icon {
+  margin-top:-10px;
+  bottom:-50px;
+  color:#FFF;
+}
+
+/* boton comenzar */
+/* .btn-getstarted {
+  visibility: hidden;
+} */
+
